@@ -74,7 +74,7 @@ if ($_SESSION['zero']==1) {
   <div class="card mb-3">
     <div class="card-body">
       <form method="post" action="index.php?action=add&id=<?php echo $row["product_code"]; ?>">
-         <center><img src="images/log.png" style="width: 100px">
+         <center><img src="images/companylogos.png" style="width: 100px">
          <h4 class="text-info"><?php echo $row["product_name"]; ?></h4>
          <h5 class="text-info">Schedule:<br>(<?php echo $row["available"]; ?>)</h5>
          <h4 class="text-danger">₱<?php echo $row["selling_price"]; ?>.00</h4>
