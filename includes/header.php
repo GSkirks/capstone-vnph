@@ -46,7 +46,7 @@
 
     <nav class="navbar navbar-expand navbar-dark bg-dark static-top">
 
-      <a class="navbar-brand mr-1" href="consult.php"><img class="responsive" src="images/companylogo.png" style="width: 50px"><b> Virtual Nutritionist</b>PH</a>
+      <a class="navbar-brand mr-1" href="/consult.php"><img class="responsive" src="images/companylogo.png" style="width: 50px"><b> Virtual Nutritionist</b>PH</a>
 
       <button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
         <i class="fas fa-bars"></i>
