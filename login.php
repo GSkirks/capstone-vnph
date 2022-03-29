@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" type="image/png" href="images/log.png">
+    <link rel="icon" type="image/png" href="images/companylogo.png">
 
     <title>Virtual Nutritionist PH</title>
 
@@ -28,7 +28,7 @@
 
     <div class="container">
       <div class="card card-login mx-auto mt-5">
-      <div class="card-header"><center><h4><img class="responsive" src="images/log.png" style="width: 80px"><br> Login</h4></center></div>
+      <div class="card-header"><center><h4><img class="responsive" src="images/companylogo.png" style="width: 80px"><br> Login</h4></center></div>
         <div class="card-body">
          <?php session_start();
           if (isset($_GET['error'])) {
